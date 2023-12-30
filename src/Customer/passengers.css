@@ -1,0 +1,27 @@
+#back {
+    width: 10%;
+    height: 15%;
+}
+
+#back:hover {
+    margin: 0.1px;
+    background-color: #ffffff;
+}
+
+#continue {
+    background-color: #383838;
+    color: white;
+    width: 10%;
+    height: 15%;
+}
+
+#continue:hover {
+    margin: 0.1px;
+    background-color: #4d4d4d;
+}
+.gender button {
+    background-image: linear-gradient(to right, #fc0303, #faf605);
+    width: 103%;
+    margin-left: -1.5%;
+    border: 2px solid red;
+}

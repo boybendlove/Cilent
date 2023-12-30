@@ -1,0 +1,8 @@
+#trans {
+    transition: all 1s ease;
+    border-radius: 7px;
+}
+
+#trans:hover {
+    transform: scale(1.05, 1.05);
+}

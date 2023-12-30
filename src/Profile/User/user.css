@@ -1,0 +1,74 @@
+.body p {
+    font-family: KoHo, sans-serif;
+}
+
+.title {
+    background-color: rgb(176, 176, 176);
+    width: 100%;
+}
+
+.left {
+    width: 30%;
+}
+
+.left ul li {
+    list-style-type: none;
+    margin-top: 5%;
+    padding: 10%;
+    background-color: rgb(224, 224, 224);
+    border: 0.2px solid rgb(201, 201, 201);
+    cursor: pointer;
+}
+
+.left ul li:hover {
+    background-color: white;
+}
+
+#acc {
+    background-color: white;
+}
+
+.right {
+    width: 65%;
+    border: 1px solid rgb(177, 177, 177);
+    margin-left: 5%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    height: auto;
+}
+
+.left1 {
+    width: 30%;
+}
+
+.right1 {
+    width: 70%;
+}
+
+.row1 {
+    margin-left: 10%;
+}
+
+/* .row1:after {
+    content: "";
+    display: table;
+    clear: both;
+    float: left;
+} */
+
+#change {
+    float: right;
+    margin-right: 1%;
+}
+
+#change:hover {
+    background-color: rgb(145, 145, 145);
+}

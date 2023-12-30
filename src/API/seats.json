@@ -1,0 +1,42 @@
+{
+    "seats": [
+      {
+        "aircraftCode": "VN-A123",
+        "seatClass": "business",
+        "seatsPerRow": 4,
+        "totalRows": 3
+      },
+      {
+        "aircraftCode": "VN-A123",
+        "seatClass": "economy",
+        "seatsPerRow": 8,
+        "totalRows": 10
+      },
+      {
+        "aircraftCode": "VN-B456",
+        "seatClass": "business",
+        "seatsPerRow": 4,
+        "totalRows": 3
+      },
+      {
+        "aircraftCode": "VN-B456",
+        "seatClass": "economy",
+        "seatsPerRow": 8,
+        "totalRows": 12
+      },
+      {
+        "aircraftCode": "VN-C789",
+        "seatClass": "business",
+        "seatsPerRow": 4,
+        "totalRows": 3
+      },
+      {
+        "aircraftCode": "VN-C789",
+        "seatClass": "economy",
+        "seatsPerRow": 8,
+        "totalRows": 14
+      }
+
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "aircrafts": [
+      {
+        "aircraftCode": "VN-A123",
+        "airline": "Vietnam Airlines",
+        "model": "A320",
+        "totalSeats": 92,
+        "totalRows": 13
+      },
+      {
+        "aircraftCode": "VN-B456",
+        "airline": "Vietnam Airlines",
+        "model": "B737",
+        "totalSeats": 108,
+        "totalRows": 15
+      },
+      {
+        "aircraftCode": "VN-C789",
+        "airline": "Vietnam Airlines",
+        "model": "A321",
+        "totalSeats": 124,
+        "totalRows": 17
+      }
+    ]
+  }
+  
